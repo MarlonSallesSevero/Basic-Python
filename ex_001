@@ -3,3 +3,5 @@
 
 def soma_valores(a, b, c):
     return a + b + c
+
+soma_valores(5, 8, 9)
