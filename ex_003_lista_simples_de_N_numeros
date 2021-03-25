@@ -1,0 +1,8 @@
+nbs = []
+
+for n in range(0, 6): //Trocar 6 por tamanho da lista desejado
+    x = int(input(f'Informe o {n+1}º numero:'))
+    nbs.append(x)
+print(f'Os numeros informados foram: {nbs}')
+
+
