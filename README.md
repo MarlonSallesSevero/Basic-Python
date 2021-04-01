@@ -1,4 +1,4 @@
-# Exercicios-Python-Basico
+# Basic-Python-Exercises
 Just a help for those starting out.
 
 I am currently writing a few old exercises already done, several.
