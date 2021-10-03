@@ -1,7 +1,0 @@
-# Soma de 3 valores e o retorno deles.
-# Sum of 3 values and their return.
-
-def soma_valores(a, b, c):
-    return a + b + c
-
-soma_valores(5, 8, 9)
