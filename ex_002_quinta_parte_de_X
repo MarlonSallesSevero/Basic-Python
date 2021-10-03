@@ -1,5 +1,0 @@
-# Pega a quinta parte do numero, ou seja divide ele por cinco.
-# Take the fifth part of the number, that is, divide it by five.
-
-def quinta_part(x):
-    return x/5
